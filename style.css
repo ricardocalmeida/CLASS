@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a {
+    color: blue;
+}
+
+a:visited {
+    color: red;
+}
+
+input:checked {
+    width: 101px;
+    height: 100px;
+}
